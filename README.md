@@ -10,11 +10,10 @@ Muhammad Septian Farisasmita
 Petualangan Antariksa adalah aplikasi Flutter berbasis interaktif yang mengajak pengguna mengikuti cerita seorang astronot dalam misi membuka box misterius di luar angkasa. Pengguna dapat berinteraksi langsung dengan elemen-elemen di layar menggunakan gesture seperti drag, tap, double tap, dan long press untuk menyelesaikan misi.
 
 ## Screenshot Emulator :
-
-!(assets/images/Page1.png)
-!(assets/images/Page2.png)
-!(assets/images/page3.png)
-!(assets/images/Page4.png)
+![Page1](https://github.com/user-attachments/assets/baa21563-007c-42ce-a007-72e58a0ccd0e)
+![Page2](https://github.com/user-attachments/assets/2f0c7e1c-7f43-4b52-b513-0e9b53165120)
+![Page3](https://github.com/user-attachments/assets/567fab64-c06f-4913-85a1-1b29396c6050)
+![Page4](https://github.com/user-attachments/assets/39cca9e0-08a3-4893-904b-b20e4cd985fc)
 
 ## Penjelasan Program :
 
